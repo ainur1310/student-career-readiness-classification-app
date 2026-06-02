@@ -1,0 +1,14 @@
+{
+  "model_name": "XGBoost SMOTE",
+  "f1_weighted": 0.9321954040553383,
+  "classes": [
+    "Perlu Persiapan",
+    "Hampir Siap",
+    "Siap Masuk Industri",
+    "Sangat Siap"
+  ],
+  "n_features": 26,
+  "training_samples": 1111,
+  "test_samples": 278,
+  "created_at": "2026-06-02T09:34:42.552190"
+}
